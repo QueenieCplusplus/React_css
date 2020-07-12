@@ -1,4 +1,4 @@
-// 2020, 7/12 am 9:55 -
+// 2020, 7/12 am 9:55 - 10:15 (duration: 20 mins)
 // CSS transition 轉場 (為類別指定合適的 CSS 樣式)
 // 使用 <ReactCSSTransitionGroup/> 此 addons 附加元件
 // interval rendering 間隔渲染 (也包括可以渲染捲軸 slide bar & canvas)
