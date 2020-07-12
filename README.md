@@ -91,3 +91,8 @@ assign style add-on to component
         // 主建屬性集必須齊全
 
     }
+
+
+＊ 範例
+
+https://github.com/QueenieCplusplus/React_email
