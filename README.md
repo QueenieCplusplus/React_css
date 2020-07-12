@@ -1,6 +1,25 @@
 # React_css
 assign style add-on to component
 
+
+# add-ons Component
+
+    // CSS transition 轉場 (為類別指定合適的 CSS 樣式)
+    // 使用 <ReactCSSTransitionGroup/> 此 addons 附加元件
+
+    // 加入附加元件
+    var React = require("react");
+    var ReactCSSTransitionGroup = React.addons.ReactCSSTransitionGroup;
+
+    // html 
+    <ReactCSSTransitionGroup transitionName = 'qStyle'
+        transitionEnter={this.state.enableAnimation}
+        transitionLeave={false}
+    >
+        {qustionIssued}
+    </ReactCSSTransitionGroup>
+
+
 # transition group Life Cycle
 
 轉場組生命週期
